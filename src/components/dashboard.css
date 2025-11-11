@@ -101,6 +101,7 @@
   padding: 30px;
   overflow-y: auto;
   flex-grow: 1;
+  color: #000;
 }
 
 .loading-screen {
